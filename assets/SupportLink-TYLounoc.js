@@ -1,0 +1,1 @@
+import{ft as e,pt as t}from"./index-CkowCtCM.js";import{Nt as n}from"./ProBadge-DessZNmZ.js";var r=n(),i=`The support email is coming soon.`;function a({className:n=``,children:a=`Support`}){let o=e();return o?(0,r.jsx)(`a`,{href:o,className:n,children:a}):(0,r.jsx)(`button`,{type:`button`,onClick:()=>t(i),className:n,children:a})}export{a as n,i as t};
